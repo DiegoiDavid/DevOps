@@ -2,7 +2,7 @@ class Entero:
     def __init__(self,n):
         self.n = n
 
-    def print_numbers():
+    def print_numbers(n):
         for number in range(n):
             if((n%2) == 0):
                 print("El numero es: ", number)
